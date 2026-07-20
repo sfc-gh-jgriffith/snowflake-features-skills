@@ -1,6 +1,7 @@
-   
-name: my-snowflake-radar description: "Map recent Snowflake product launches to the features you're actively using and your current projects. Use when: what's new in Snowflake for me, product radar, what Snowflake launches should I care about, what's changing in my Snowflake stack, landscape watch, product changelog for my account, what features are being launched that I use, product updates relevant to me. Requires SELECT on SNOWFLAKE.ACCOUNT\_USAGE and web\_search. No configuration needed — runs on your connected account automatically."
-
+---
+name: my-snowflake-radar 
+description: "Map recent Snowflake product launches to the features you're actively using and your current projects. Use when: what's new in Snowflake for me, product radar, what Snowflake launches should I care about, what's changing in my Snowflake stack, landscape watch, product changelog for my account, what features are being launched that I use, product updates relevant to me. Requires SELECT on SNOWFLAKE.ACCOUNT\_USAGE and web\_search. No configuration needed — runs on your connected account automatically."
+---
  
 
 # My Snowflake Radar
