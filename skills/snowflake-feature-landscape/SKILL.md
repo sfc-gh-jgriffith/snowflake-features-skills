@@ -1,4 +1,3 @@
-   
 ---
 name: snowflake-feature-landscape 
 description: "Show every Snowflake feature being actively used in your account, grouped by product area, with user counts and activity status. Use when: what Snowflake features am I using, feature usage report, what products do we use in Snowflake, how many users on each feature, my Snowflake usage landscape, feature adoption report, show my Snowflake usage. Requires SELECT on SNOWFLAKE.ACCOUNT\_USAGE. No configuration needed — runs on your connected account automatically."
