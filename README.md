@@ -13,7 +13,7 @@ The following must be in place before installing either skill.
 4. Google Workspace MCP configured (optional). Required only if you want to export results to a Google Doc at the end of a skill run. Set it up by running /google_workspace_install in CoCo.
 ## HOW TO INSTALL
 ### Option A — GitHub (recommended)
-In your CoCo Desktop chat, run: /github-plugin-installer https://github.com/sfc-gh-griffith/snowflake-features-skills
+In your CoCo Desktop chat, run: /github-plugin-installer https://github.com/sfc-gh-jgriffith/snowflake-features-skills
 CoCo clones the repository and installs both skills globally. They appear in the / command picker on your next prompt.
 ### Option B — Local folder
 Download or unzip the skill files from this repository to your computer. Then in CoCo Desktop chat, run: /local-plugin-installer
