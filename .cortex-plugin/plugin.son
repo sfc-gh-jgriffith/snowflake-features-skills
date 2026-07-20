@@ -1,0 +1,8 @@
+{
+  "name": "snowflake-features-skills",
+  "description": "Snowflake CoCo skills for customers — feature landscape and product radar.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Snowflake Account Team"
+  }
+}
